@@ -1,0 +1,6 @@
+[workspace]
+members =[
+    "todo_api",
+    "todo_core",
+    "todo_data",
+]
